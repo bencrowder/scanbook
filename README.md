@@ -5,9 +5,13 @@ A Python command-line tool for turning page scans into a nice black-and-white PD
 
 ## Installation
 
-`python setup.py`
+1. Install Imagemagick
+2. `pip install scanbook`
+3. Make sure the Python binary path is in your $PATH.
 
-And make sure the Python binary path is in your $PATH.
+### Pipless installation
+
+1. `python setup.py install` instead of `pip install scanbook`
 
 ### Dependencies
 

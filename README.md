@@ -29,4 +29,4 @@ Options:
 - `--no-cleanup` -- leave the `__SLUG` folder (handy if you want to do anything with the processed image files)
 - `--verbose`
 
-Example: `scanbook --verbose --threshold 27 --no-cleanup war-and-peace *.jpg
+Example: `scanbook --verbose --threshold 27 --no-cleanup war-and-peace *.jpg`

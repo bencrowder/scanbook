@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='scanbook',
-    version='0.1.0',
+    version='0.1.1',
     description='Tool that processes page images for easier reading',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
